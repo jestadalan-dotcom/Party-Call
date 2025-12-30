@@ -1,0 +1,8 @@
+{
+  "name": "NeonYear Connect",
+  "description": "A festive video call application with a New Year's Eve countdown, fireworks, and an AI Party Host powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
